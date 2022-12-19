@@ -63,3 +63,7 @@ blocktime: 1671298531
 
 
 # How to Execute Code
+1. create .env file
+2. put the rpc url and signature you want analyze
+3. yarn
+4. yarn start
