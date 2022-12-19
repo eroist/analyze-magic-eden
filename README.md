@@ -60,3 +60,6 @@ price: 23.28
 mint: 2xKoiKJrcQVFfdUpdyzbRhFcccg2ThYHC7H9WBVn8Rw8
 blocktime: 1671298531
 ```
+
+
+# How to Execute Code
